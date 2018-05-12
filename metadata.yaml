@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30700#The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-4
 gutenberg_issued: '2009-12-17'
 gutenberg_type: Text
 identifiers:
