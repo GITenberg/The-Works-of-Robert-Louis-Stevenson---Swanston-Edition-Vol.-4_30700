@@ -1,0 +1,44 @@
+_repo: The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-4_30700
+_version: 0.1.0
+alternative_title: New Arabian Nights
+contributor:
+  other_contributor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2009-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30700'
+language: en
+publication_note: 'London :  Chatto and Windus; in association with  Cassell and Company
+  Limited;  William Heinemann; and  Longmans Green and Company,  1911'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century'
+tableOfContents: The suicide club -- The Rajah's diamond -- The pavilion on the links
+  -- A lodging for the night -- The Sire de Malétroit's door -- Providence and the
+  guitar.
+title: The Works of Robert Louis Stevenson - Swanston Edition, Vol. 4
+url: http://www.gutenberg.org/ebooks/30700
